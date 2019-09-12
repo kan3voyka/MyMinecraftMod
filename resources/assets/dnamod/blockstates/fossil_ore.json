@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "dnamod:block/fossil_ore" }
+    }
+}

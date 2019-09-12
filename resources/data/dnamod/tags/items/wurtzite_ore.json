@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values":
+	[
+		"dnamod:wurtzite_ore",
+		"dnamod:wurtzite_ore_nether"
+	]
+}

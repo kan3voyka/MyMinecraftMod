@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:smelting",
+	
+	"ingredient" : { "tag": "dnamod:wurtzite_ore" },
+	
+	"result": { "item": "dnamod:wurtzite_ingot" },
+	
+	"experience": 3.5,
+	
+	"cookingtime": 400
+	
+}

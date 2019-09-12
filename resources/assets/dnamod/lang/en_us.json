@@ -1,0 +1,34 @@
+{
+	"item.dnamod.tutorial_item": "Tutorial Item",
+	
+	"item.dnamod.fullerite_ingot": "Fullerite Ingot",
+	"item.dnamod.wurtzite_ingot": "Wurtzite Ingot",
+	"item.dnamod.oxmium_shard": "Desert Oxmium Shard",
+	"item.dnamod.oxmium_crystal": "Desert Oxmium Crystal",
+	
+	"item.dnamod.ore_extractor": "Ore Extractor",
+	"item.dnamod.fullerite_axe": "Fullerite Axe",
+	"item.dnamod.fullerite_pickaxe": "Fullerite Pickaxe",
+	"item.dnamod.fullerite_shovel": "Fullerite Shovel",
+	"item.dnamod.fullerite_sword": "Fullerite Sword",
+	"item.dnamod.wurtzite_axe": "Wurtzite Axe",
+	"item.dnamod.wurtzite_pickaxe": "Wurtzite Pickaxe",
+	"item.dnamod.wurtzite_shovel": "Wurtzite Shovel",
+	"item.dnamod.wurtzite_sword": "Wurtzite Sword",
+	"item.dnamod.oxmium_extractor": "Desert Oxmium Extractor",
+	"item.dnamod.oxmium_sword": "Desert Oxmium Sword",
+	
+	"item.dnamod.fullerite_helmet": "Fullerite Helmet",
+	"item.dnamod.fullerite_chestplate": "Fullerite Chestplate",
+	"item.dnamod.fullerite_leggings": "Fullerite Leggings",
+	"item.dnamod.fullerite_boots": "Fullerite Boots",
+	
+	"block.dnamod.fossil_ore": "Fossil Ore",
+	"block.dnamod.fullerite_ore": "Fullerite Ore",
+	"block.dnamod.fullerite_ore_nether": "Nether Fullerite Ore",
+	"block.dnamod.wurtzite_ore": "Wurtzite Ore",
+	"block.dnamod.wurtzite_ore_nether": "Nether Wurtzite Ore",
+	"block.dnamod.oxmium_ore": "Desert Oxmium Ore",
+	
+	"itemGroup.dna": "D.N.A."
+}

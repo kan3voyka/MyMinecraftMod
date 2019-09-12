@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": 
+	[
+	   	"IIS",
+		"  S",
+		"IIS"
+	],
+	
+	"key": 
+	{
+		"I": { "item": "minecraft:scute" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": 
+	{ 
+		"item": "dnamod:ore_extractor",	
+		"count": 1
+	},
+	"group": "dna"	
+}

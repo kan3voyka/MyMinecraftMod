@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:smelting",
+	
+	"ingredient" : { "tag": "dnamod:fullerite_ore" },
+	
+	"result": { "item": "dnamod:fullerite_ingot" },
+	
+	"experience": 3,
+	
+	"cookingtime": 300
+	
+}

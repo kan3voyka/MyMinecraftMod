@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "dnamod:block/wurtzite_ore_nether" }
+    }
+}

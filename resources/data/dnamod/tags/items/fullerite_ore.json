@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values":
+	[
+		"dnamod:fullerite_ore",
+		"dnamod:fullerite_ore_nether"
+	]
+}

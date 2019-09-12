@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": 
+	[
+		"I",
+		"I",
+		"S"
+	],
+	
+	"key": 
+	{
+		"I": { "item": "dnamod:oxmium_crystal" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": 
+	{ 
+		"item": "dnamod:oxmium_sword",
+		"count": 1
+	},
+	"group": "dna"
+}

@@ -1,0 +1,58 @@
+{
+	"type": "minecraft:entity",
+	"pools": 
+	[
+		{
+			"rolls": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"bonus_rolls": 2,
+			"entries":
+			[
+				{
+					"type": "minecraft:tag",
+					"functions":
+					[
+						{
+							"function": "minecraft:set_count",
+							"count": 
+							{
+								"min": 1,
+								"max": 2
+							}
+						}
+					],
+					"name": "dnamod:fullerite_ore",
+					"expand": true,
+					"weight": 100
+				},
+				
+				{
+					"type": "minecraft:item",
+					"functions":
+					[
+						{
+							"function": "minecraft:set_damage",
+							"damage": 0.1
+						},
+						
+						{
+							"function": "minecraft:set_name",
+							"name": "The sword of Dead"
+						},
+						
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Enchantments:[{id:sharpness,lvl:100}]}"
+						}
+					],
+					
+					"name": "dnamod:fullerite_sword",
+					"weight": 10
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": 
+	[
+	   	"I",
+		"S",
+		"S"
+	],
+	
+	"key": 
+	{
+		"I": { "item": "dnamod:fullerite_ingot" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "dnamod:fullerite_shovel" }
+	
+}
